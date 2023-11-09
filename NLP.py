@@ -2,6 +2,7 @@ import streamlit as st
 
 def main():
     st.title('NLP Resource Hub')
+    st.caption('Click on the arrow in the top left corner to explore the NLP Resource Hub sections.')
 
     st.sidebar.header('Select the Platform/Tool/Framework')
     sections = [
