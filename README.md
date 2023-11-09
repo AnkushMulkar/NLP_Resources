@@ -1,6 +1,6 @@
 # NLP Resource Hub
 visit the app: https://nlp-resources.streamlit.app/
-![Screenshot (858)](https://github.com/AnkushMulkar/NLP_Resources/assets/94743425/8f2acb68-add3-4924-9078-a35c95fedeab)
+![Screenshot (859)](https://github.com/AnkushMulkar/NLP_Resources/assets/94743425/7f21bde1-5a5f-4b3c-84f8-e5d32d56a67f)
 
 
 Welcome to the NLP Resource Hub, a Streamlit application designed to provide quick access to a wealth of resources for natural language processing (NLP) enthusiasts, researchers, and developers. This hub aggregates various tools, documentation, and research materials to help you stay at the cutting edge of NLP technology and advancements.
