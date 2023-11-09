@@ -3,7 +3,7 @@ import streamlit as st
 def main():
     st.title('NLP Resource Hub')
 
-    st.sidebar.header('Navigation')
+    st.sidebar.header('Select the Platform/Tool/Framework')
     sections = [
         'Hugging Face Tasks', 
         'OpenAI Docs', 
